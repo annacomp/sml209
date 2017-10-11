@@ -20,7 +20,7 @@
 <hr>
 
 <h3>text styles</h3>
-<p>in this paragraph i am going to <u>underline this</u> and then this is <strong> very important</strong>, and then this is <em>italicised for effect</em>. for example, <em>oh no!</em>   </p>
+<p>in this paragraph i am going to <u>underline this</u> and then this is <strong> very important</strong>, and then this is <em>italicised for effect</em>. for example, <em>oh no!</em></p>
 
 
 
