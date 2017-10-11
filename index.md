@@ -4,7 +4,7 @@
 
 <hr>
 <h2>some html formatting things</h2>
-<h3>lists</3>
+<h3>lists</h3>
 <h4>ordered lists have numbers</h4>
 <ol>
   <li>item 1</li>
@@ -20,7 +20,7 @@
 <hr>
 
 <h3>text styles</h3>
-<p>in this paragraph i am going to <u>underline this</u> and then this is <strong> very important<strong>, and then this is <em>italicised for effect</em>. for example, <em>oh no!</em>   </p>
+<p>in this paragraph i am going to <u>underline this</u> and then this is <strong> very important</strong>, and then this is <em>italicised for effect</em>. for example, <em>oh no!</em>   </p>
 
 
 
