@@ -22,8 +22,8 @@
 <h3>text styles</h3>
 <p>in this paragraph i am going to <u>underline this</u> and then this is <strong> very important</strong>, and then this is <em>italicised for effect</em>. for example, <em>oh no!</em></p>
 
-
-
+<h3>links and images</h3>
+<p> first i'm going to link to <a href="http://llt.msu.edu/issues/june2011/emerging.pdf">my website</a></p>
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annacomp/sml209/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
