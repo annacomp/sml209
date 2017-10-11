@@ -24,6 +24,8 @@
 
 <h3>links and images</h3>
 <p> first i'm going to link to <a href="http://llt.msu.edu/issues/june2011/emerging.pdf">my website</a></p>
+
+<img src="https://www.google.co.uk/search?rlz=1C1GGRV_enGB766GB766&biw=1920&bih=949&tbs=sur%3Afmc&tbm=isch&sa=1&q=pizza&oq=pizza&gs_l=psy-ab.3..0i67k1j0j0i67k1l2j0j0i67k1j0l4.45270.46144.0.46357.5.5.0.0.0.0.53.235.5.5.0....0...1.1.64.psy-ab..0.5.235....0.PNICZnnXBmY#imgrc=WCLnGSt8Lga7QM:" />
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annacomp/sml209/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
