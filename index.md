@@ -8,19 +8,19 @@
 <h4>ordered lists have numbers</h4>
 <ol>
   <li>item 1</li>
-  <l1>item 2</li>
+  <li>item 2</li>
 </ol>
 
 <h4>unordered lists have bullets</h4>
 <ul>
   <li>item 1</li>
-  <l1>item 2</li>
+  <li>item 2</li>
 </ul>
 
 <hr>
 
 <h3>text styles</h3>
-<p>in this paragraph i am going to <u>underline this</u>and then this is <strong>very important<strong>, and then this is <em>italicised for effect</em>. for example, <em>oh no!</em>   </p>
+<p>in this paragraph i am going to <u>underline this</u> and then this is <strong> very important<strong>, and then this is <em>italicised for effect</em>. for example, <em>oh no!</em>   </p>
 
 
 
