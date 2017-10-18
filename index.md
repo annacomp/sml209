@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td>table</td>
-    <td>mesa Anders</td> 
+    <td>mesa</td> 
     <td>mesa</td>
   </tr>
 
